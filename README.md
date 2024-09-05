@@ -15,16 +15,20 @@
 - [Conclusion](#conclusion)
 - [How to View the Report](#how-to-view-the-report)
 
+
+
 ### Project Overview
 This project focuses on exploratory data analysis (EDA) and the use of DAX to build powerful visualizations that will help Atlas Labs understand and address employee attrition. 
 - Attrition, or employee turnover, refers to employees leaving the organization, whether voluntarily or involuntarily.
 
 The leadership team at Atlas Labs seeks high-level insights into their workforce, with a particular focus on understanding the factors influencing employee attrition. In addition to attrition analysis, this study also looks into HR metrics related to diversity and inclusion, marital status, and ethnicity. Furthermore, the HR team requested a performance tracking system to continually monitor individual employee performance based on annual performance reviews.
 
+
 ### Tools 🪛
 
 - Excel
 - Powerbi
+
 
 ### Project Objectives
 The goal of this analysis is to:
@@ -32,6 +36,7 @@ The goal of this analysis is to:
 1. Identify the factors contributing to employee attrition.
 2. Provide a deep dive into employee demographics to identify potential issues related to diversity, inclusion, and other HR metrics.
 3. Offer a system to track employee performance over time, enabling managers and HR to monitor and take proactive measures when necessary.
+
 
 ### Methodology
 - Step 1: Data Import and Preparation
@@ -47,6 +52,8 @@ The goal of this analysis is to:
 
 - Step 4: Measures Table
   - Created an empty table to store all measures used throughout the analysis. This allows for cleaner organization of custom calculations, particularly when using DAX to generate insights.
+    
+    
  
 ## Key Pages in this Report
 
@@ -81,22 +88,33 @@ The goal of this analysis is to:
 ## Detailed Insights:
 
 - The Technology department is the most populous, reflecting the core nature of Atlas Labs as a software company.
+
 - Software Engineering has the highest number of employees, followed by Data Scientists and Machine Learning Engineers, indicating a strong focus on software development and data-driven initiatives.
+  
 - The majority of employees hired at Atlas Labs are between 20 and 29 years old, suggesting a young and dynamic workforce.
+
 
 #### Diversity  & Inclusion Metrics:
 
 - The gender distribution is nearly equal, with females making up **45.92%** and males **44.29%** of the total workforce. This close balance is a positive indicator of gender diversity within the company.
+  
 - Employees who identify as non-binary account for **8.5%** of the total workforce, showcasing Atlas Labs’ commitment to inclusivity.
+  
 - Employees who identify as white not only form the majority of the organization but also have the highest average salary. Conversely, employees who identify as mixed or multiple ethnic groups have one of  the lowest average salaries, highlighting a potential area for review and improvement in pay equity.
+  
 
 #### Attrition Insights:
 
 - Employees considered as frequent travelers have the highest attrition rate despite only making up **19%** of the total workforce, indicating that frequent travel may contribute to turnover.
+  
 - Employees who worked overtime had an attrition rate of **30.5%**, compared to their counterparts with an attrition rate of **10.5%**. This suggests that excessive overtime may lead to higher turnover.
+  
 -  A significant % attrition rate of **25%** was recorded in 2020, possibly due to external factors such as the global pandemic, warranting further investigation.
+  
 -  Sales representatives had the highest attrition rate at **39.8%**, indicating a need to address retention strategies in this department.
+  
 -  Employees who had only spent one year with the company had an attrition rate of 34.5%, suggesting that early-stage employee engagement and support may need improvement.
+
 
 
  ### Actionable Recommendations
