@@ -49,18 +49,38 @@ The goal of this analysis is to:
 
 ### Overview
 - An introduction to the report, highlighting the key metrics and providing a high-level summary of employee data.
+<img width="595" alt="01_Overview" src="https://github.com/user-attachments/assets/c4526a71-af16-418b-8bc1-e44461ca45b0">
+
+
+  
 
 ### Demographics
 - A detailed breakdown of employee demographics, including ethnicity, marital status, and gender representation. This analysis highlights diversity metrics and areas for improvement.
+<img width="595" alt="02_Demographics" src="https://github.com/user-attachments/assets/4a78abb9-37a4-4da0-a721-d285f195f347">
+
+
+  
 
 ### Performance Tracker
 - A dedicated page to track individual employee performance based on their yearly performance reviews. This allows HR and management to monitor employee growth and identify potential underperformers.
+<img width="590" alt="03_Performance tracker" src="https://github.com/user-attachments/assets/87451866-2d45-4694-80c7-1068e03cd47b">
+
+
+  
 
 ### Attrition
 - This page displays high-level metrics on attrition rates, identifying key factors that influence turnover. Charts and graphs are used to show trends over time and across different employee demographics.
 
-5. Insights
-A deep dive into the analysis of factors affecting employee attrition and key findings related to employee performance, diversity, and other HR metrics.
+<img width="590" alt="04_Attrition" src="https://github.com/user-attachments/assets/1204ff0f-982c-43a5-8762-d0fbde6c207b">
+
+  
+
+## Insights
+
+
+  
 
 6. Recommendations
 This section provides actionable recommendations based on the insights gathered. These recommendations aim to help Atlas Labs reduce employee attrition and foster a more inclusive and supportive work environment.
+<img width="594" alt="06_Recommendations" src="https://github.com/user-attachments/assets/3a8197f2-8b77-4084-8dfa-a2da41cda58a">
+
