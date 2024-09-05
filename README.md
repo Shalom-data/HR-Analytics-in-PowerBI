@@ -9,8 +9,10 @@
 - [Demographics](#demographics)
 - [Performance Tracker](#performance-tracker)
 - [Attrition](#attrition)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+- [Detailed Insights](#detailed-insights)
+- [Actionable Recommendations](#actionable-recommendations)
+- [Conclusion](#conclusion)
+- [How to View the Report](#how-to-view-the-report)
 
 ### Project Overview
 This project focuses on exploratory data analysis (EDA) and the use of DAX to build powerful visualizations that will help Atlas Labs understand and address employee attrition. 
@@ -75,12 +77,48 @@ The goal of this analysis is to:
 
   
 
-## Insights
+## Detailed Insights:
+
+- The Technology department is the most populous, reflecting the core nature of Atlas Labs as a software company.
+- Software Engineering has the highest number of employees, followed by Data Scientists and Machine Learning Engineers, indicating a strong focus on software development and data-driven initiatives.
+- The majority of employees hired at Atlas Labs are between 20 and 29 years old, suggesting a young and dynamic workforce.
+
+#### Diversity  & Inclusion Metrics:
+
+- The gender distribution is nearly equal, with females making up **45.92%** and males **44.29%** of the total workforce. This close balance is a positive indicator of gender diversity within the company.
+- Employees who identify as non-binary account for **8.5%** of the total workforce, showcasing Atlas Labs’ commitment to inclusivity.
+- Employees who identify as white not only form the majority of the organization but also have the highest average salary. Conversely, employees who identify as mixed or multiple ethnic groups have one of  the lowest average salaries, highlighting a potential area for review and improvement in pay equity.
+
+#### Attrition Insights:
+
+- Employees considered as frequent travelers have the highest attrition rate despite only making up **19%** of the total workforce, indicating that frequent travel may contribute to turnover.
+- Employees who worked overtime had an attrition rate of **30.5%**, compared to their counterparts with an attrition rate of **10.5%**. This suggests that excessive overtime may lead to higher turnover.
+-  A significant % attrition rate of **25%** was recorded in 2020, possibly due to external factors such as the global pandemic, warranting further investigation.
+-  Sales representatives had the highest attrition rate at **39.8%**, indicating a need to address retention strategies in this department.
+-  Employees who had only spent one year with the company had an attrition rate of 34.5%, suggesting that early-stage employee engagement and support may need improvement.
 
 
-  
+ ### Actionable Recommendations
+ 
+1. Address the high attrition rates among specific groups such as frequent travelers, overtime workers, and sales representatives. Consider implementing tailored retention strategies like flexible work arrangements, workload management, and targeted employee engagement programs.
+   
+2. Investigate the challenges faced by frequent travelers and consider offering additional support or incentives to reduce attrition in this group, such as flexible travel arrangements or work-from-home options.
+   
+3. Review the salary structures to ensure equitable compensation across all ethnic groups and gender identities. Conduct a pay equity audit to identify and address any disparities.
+   
+4. Enhance onboarding and mentorship programs to better support employees in their first year, which may reduce the high attrition rate among this group.
+   
+5. Investigate the challenges faced by sales representatives and consider strategies to improve job satisfaction and retention in this high-turnover group.
+   
+6. Further analysis is recommended to identify the factors contributing to the high attrition rate in 2020 and develop strategies to mitigate similar risks in the future, such as improved crisis management and employee support systems.
+    
+7. Lastly, given the large concentration of employees in Software Engineering, Data Science, and Machine Learning, it may be beneficial to invest in ongoing training and development programs to maintain and enhance the technical skills of these teams.
 
-6. Recommendations
-This section provides actionable recommendations based on the insights gathered. These recommendations aim to help Atlas Labs reduce employee attrition and foster a more inclusive and supportive work environment.
-<img width="594" alt="06_Recommendations" src="https://github.com/user-attachments/assets/3a8197f2-8b77-4084-8dfa-a2da41cda58a">
+## Conclusion
+This analysis helps Atlas Labs gain visibility into the key drivers of employee attrition and provides actionable insights into workforce diversity and performance management. By implementing these findings, Atlas Labs can take proactive steps to improve employee retention and foster a more inclusive workplace.
+
+## How to View the Report
+To view the full interactive report, download the .pbix file and open it in Power BI Desktop. If you do not have Power BI Desktop, you can view the screenshots and exported visuals included in this repository.
+
+
 
