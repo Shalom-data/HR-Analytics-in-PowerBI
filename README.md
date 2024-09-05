@@ -5,10 +5,11 @@
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Methodology](#methodology)
-- [Overview](#overview)
-- [Demographics](#demographics)
-- [Performance Tracker](#performance-tracker)
-- [Attrition](#attrition)
+- [Key Pages in this Report](#key-pages-in-this-report)
+  - [Overview](#overview)
+  - [Demographics](#demographics)
+  - [Performance Tracker](#performance-tracker)
+  - [Attrition](#attrition)
 - [Detailed Insights](#detailed-insights)
 - [Actionable Recommendations](#actionable-recommendations)
 - [Conclusion](#conclusion)
@@ -47,7 +48,7 @@ The goal of this analysis is to:
 - Step 4: Measures Table
   - Created an empty table to store all measures used throughout the analysis. This allows for cleaner organization of custom calculations, particularly when using DAX to generate insights.
  
-## Key Pages in the Power BI Report
+## Key Pages in this Report
 
 ### Overview
 - An introduction to the report, highlighting the key metrics and providing a high-level summary of employee data.
