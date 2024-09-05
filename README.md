@@ -1,6 +1,6 @@
 # Employee Attrition Analysis - Atlas Labs
 
-## Table of Contents
+## Table of Contents 📖
 
 - [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
@@ -21,7 +21,7 @@ This project focuses on exploratory data analysis (EDA) and the use of DAX to bu
 
 The leadership team at Atlas Labs seeks high-level insights into their workforce, with a particular focus on understanding the factors influencing employee attrition. In addition to attrition analysis, this study also looks into HR metrics related to diversity and inclusion, marital status, and ethnicity. Furthermore, the HR team requested a performance tracking system to continually monitor individual employee performance based on annual performance reviews.
 
-### Tools
+### Tools 🪛
 
 - Excel
 - Powerbi
@@ -120,6 +120,8 @@ This analysis helps Atlas Labs gain visibility into the key drivers of employee 
 
 ## How to View the Report
 To view the full interactive report, download the .pbix file and open it in Power BI Desktop. If you do not have Power BI Desktop, you can view the screenshots and exported visuals included in this repository.
+
+### Thanks for your time👍
 
 
 
