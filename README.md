@@ -140,7 +140,7 @@ This analysis helps Atlas Labs gain visibility into the key drivers of employee 
 To view the full interactive report, download the .pbix file and open it in Power BI Desktop. If you do not have Power BI Desktop, you can view the screenshots and exported visuals included in this repository.
 
 ### Did you read till the last line?, Thank you!😎👍
-### Your feedback will be greatly appreciated, msg me directly on my email [Here!](umeasiegbushalom@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/umeasiegbu-shalom)
+### Your feedback will be greatly appreciated, msg me directly on my email [Here!](mailto:umeasiegbushalom@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/umeasiegbu-shalom)
 
 
 
